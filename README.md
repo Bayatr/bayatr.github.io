@@ -1,6 +1,6 @@
-# portfolio-v2
+# portfolio-v1
 
-Personal website, you can visit it at [www.sedky.ca](https://www.sedky.ca).  
+Personal website, you can visit it at [bayatr.googlepages.com](https://bayatr.googlepages.com).  
 
 It's just static JS/CSS, hosted for free using Github Pages.
 
